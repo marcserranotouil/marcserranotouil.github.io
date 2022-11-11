@@ -1,6 +1,7 @@
 Project analysis of my Curriculum Vitae:
 
-
+Before making the curriculum with html and css, I have made the representation of the resume with the Figma tool
+Link to figma: https://www.figma.com/file/3xVLHtION9SjQOBCXpunDV/CURRICULUM-VITAE?node-id=0%3A1
 
 Target User Profile
 
